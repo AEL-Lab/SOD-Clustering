@@ -1,0 +1,85 @@
+self latitude: -16.46152
+self longitude: -43.22719
+Self altitude: 509.4805
+distance from viewpoint 1: 0.1532155
+self Orbit: Inclination: 131.94°
+RAAN: 117.82°
+
+----------------------------
+Satellite: Satellite_2_ID_3182
+Screen Position: (207.0901, 382.9328)
+Distance: 1.74265 km
+0 0.2613856 0.457226 0.08625144 0.04122121
+latitude: -16.45735
+longitude: -43.2132
+altitude: 509.0405
+Orbit: Inclination: 131.95°
+RAAN: 117.80°
+
+----------------------------
+Satellite: Satellite_2_ID_3186
+Screen Position: (214.7938, 173.8551)
+Distance: 4.701282 km
+0 0.268014 0.7570081 0.03517562 0.02237457
+latitude: -16.45959
+longitude: -43.18653
+altitude: 509.1465
+Orbit: Inclination: 131.95°
+RAAN: 117.78°
+
+----------------------------
+Satellite: Satellite_2_ID_3188
+Screen Position: (362.6606, 321.2682)
+Distance: 7.788408 km
+0 0.456849 0.5449943 0.01756141 0.006994231
+latitude: -16.43921
+longitude: -43.16369
+altitude: 509.4336
+Orbit: Inclination: 131.97°
+RAAN: 117.77°
+
+----------------------------
+Satellite: Satellite_2_ID_3190
+Screen Position: (230.1441, 119.5392)
+Distance: 7.701701 km
+0 0.2899987 0.8309802 0.02044622 0.01383129
+latitude: -16.46156
+longitude: -43.16034
+altitude: 509.4092
+Orbit: Inclination: 131.96°
+RAAN: 117.75°
+
+----------------------------
+Satellite: Satellite_2_ID_3191
+Screen Position: (154.9965, 144.5095)
+Distance: 5.845576 km
+0 0.1923941 0.7983703 0.02957117 0.01992781
+latitude: -16.46275
+longitude: -43.1768
+altitude: 508.7983
+Orbit: Inclination: 131.95°
+RAAN: 117.76°
+
+----------------------------
+Satellite: Satellite_2_ID_3192
+Screen Position: (276.4116, 462.5191)
+Distance: 5.268809 km
+0 0.3482298 0.3448416 0.02752059 0.017085
+latitude: -16.4424
+longitude: -43.18738
+altitude: 508.2588
+Orbit: Inclination: 131.98°
+RAAN: 117.78°
+
+----------------------------
+Satellite: Satellite_2_ID_3198
+Screen Position: (88.89498, 161.0218)
+Distance: 6.480238 km
+0 0.1086812 0.7745041 0.02859053 0.0179784
+latitude: -16.46429
+longitude: -43.17216
+altitude: 508.1768
+Orbit: Inclination: 131.93°
+RAAN: 117.77°
+
+----------------------------

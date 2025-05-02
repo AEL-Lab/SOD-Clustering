@@ -1,0 +1,84 @@
+self latitude: -44.6361
+self longitude: 62.32948
+Self altitude: 524.9321
+self Orbit: Inclination: 55.33°
+RAAN: 69.84°
+
+----------------------------
+Satellite: Satellite_1_ID_12796
+Screen Position: (18.35942, 543.1796)
+Distance: 5.463669 km
+0 0.03292274 0.2311107 0.03348875 0.02110554
+latitude: -44.61737
+longitude: 62.38707
+altitude: 525.5264
+Orbit: Inclination: 55.31°
+RAAN: 69.79°
+
+----------------------------
+Satellite: Satellite_1_ID_12798
+Screen Position: (183.0213, 195.2346)
+Distance: 1.97583 km
+0 0.25477 0.7253361 0.07331026 0.0407076
+latitude: -44.62922
+longitude: 62.34551
+altitude: 526.0835
+Orbit: Inclination: 55.33°
+RAAN: 69.82°
+
+----------------------------
+Satellite: Satellite_1_ID_12800
+Screen Position: (402.6498, 655.2974)
+Distance: 9.565559 km
+0 0.5071493 0.07173394 0.006593334 0.01139853
+latitude: -44.57102
+longitude: 62.39344
+altitude: 524.8042
+Orbit: Inclination: 55.26°
+RAAN: 69.81°
+
+----------------------------
+Satellite: Satellite_1_ID_12803
+Screen Position: (75.20286, 638.9213)
+Distance: 9.86802 km
+0 0.1003381 0.0953236 0.01794398 0.01249492
+latitude: -44.59533
+longitude: 62.42925
+altitude: 524.9058
+Orbit: Inclination: 55.28°
+RAAN: 69.77°
+
+----------------------------
+Satellite: Satellite_1_ID_12805
+Screen Position: (144.1785, 597.1)
+Distance: 6.666291 km
+0 0.1815585 0.1542386 0.01457956 0.01592585
+latitude: -44.60508
+longitude: 62.39372
+altitude: 525.2734
+Orbit: Inclination: 55.30°
+RAAN: 69.77°
+
+----------------------------
+Satellite: Satellite_1_ID_12808
+Screen Position: (492.4554, 513.1893)
+Distance: 5.7458 km
+0 0.6288035 0.2735711 0.02244979 0.01699289
+latitude: -44.59442
+longitude: 62.35975
+altitude: 525.9824
+Orbit: Inclination: 55.29°
+RAAN: 69.81°
+
+----------------------------
+Satellite: Satellite_1_ID_12809
+Screen Position: (109.5291, 510.7084)
+Distance: 7.709731 km
+0 0.1446543 0.2769602 0.02088615 0.01371251
+latitude: -44.60416
+longitude: 62.40601
+altitude: 526.168
+Orbit: Inclination: 55.30°
+RAAN: 69.78°
+
+----------------------------

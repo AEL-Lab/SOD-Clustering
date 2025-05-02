@@ -1,0 +1,84 @@
+self latitude: 30.82346
+self longitude: -120.6923
+Self altitude: 751.5098
+self Orbit: Inclination: 133.20°
+RAAN: 243.92°
+
+----------------------------
+Satellite: Satellite_2_ID_5783
+Screen Position: (768.9055, 94.70577)
+Distance: 1.684479 km
+0 0.957761 0.861254 0.08447804 0.04654795
+latitude: 30.82277
+longitude: -120.679
+altitude: 752.4131
+Orbit: Inclination: 133.19°
+RAAN: 243.90°
+
+----------------------------
+Satellite: Satellite_2_ID_5785
+Screen Position: (423.6753, 163.8235)
+Distance: 4.071647 km
+0 0.5334662 0.7678267 0.02371316 0.02068011
+latitude: 30.83459
+longitude: -120.6583
+altitude: 752.7236
+Orbit: Inclination: 133.18°
+RAAN: 243.87°
+
+----------------------------
+Satellite: Satellite_2_ID_5787
+Screen Position: (22.43694, 454.4075)
+Distance: 5.416853 km
+0 0.02867417 0.3554679 0.01935503 0.02604887
+latitude: 30.86109
+longitude: -120.6668
+altitude: 751.8662
+Orbit: Inclination: 133.16°
+RAAN: 243.90°
+
+----------------------------
+Satellite: Satellite_2_ID_5793
+Screen Position: (212.449, 252.4382)
+Distance: 5.968265 km
+0 0.2697681 0.640354 0.01811253 0.0167947
+latitude: 30.85299
+longitude: -120.6488
+altitude: 752.2837
+Orbit: Inclination: 133.16°
+RAAN: 243.87°
+
+----------------------------
+Satellite: Satellite_2_ID_5794
+Screen Position: (255.9765, 403.082)
+Distance: 1.641218 km
+0 0.3237182 0.4253835 0.06279787 0.07046396
+latitude: 30.83278
+longitude: -120.6824
+altitude: 752.001
+Orbit: Inclination: 133.18°
+RAAN: 243.89°
+
+----------------------------
+Satellite: Satellite_2_ID_5797
+Screen Position: (358.3709, 42.50964)
+Distance: 2.820736 km
+0 0.4508868 0.9399264 0.03558188 0.03084748
+latitude: 30.83007
+longitude: -120.6672
+altitude: 751.8594
+Orbit: Inclination: 133.18°
+RAAN: 243.88°
+
+----------------------------
+Satellite: Satellite_2_ID_5801
+Screen Position: (246.2628, 143.4347)
+Distance: 7.353635 km
+0 0.3099501 0.796752 0.01322783 0.01146666
+latitude: 30.85217
+longitude: -120.6323
+altitude: 752.1147
+Orbit: Inclination: 133.16°
+RAAN: 243.85°
+
+----------------------------

@@ -1,0 +1,84 @@
+self latitude: -16.46128
+self longitude: -43.22737
+Self altitude: 509.3311
+self Orbit: Inclination: 131.94°
+RAAN: 117.82°
+
+----------------------------
+Satellite: Satellite_2_ID_3182
+Screen Position: (249.064, 341.0792)
+Distance: 1.721557 km
+0 0.3142793 0.5166838 0.08465761 0.03520535
+latitude: -16.45735
+longitude: -43.2132
+altitude: 509.0405
+Orbit: Inclination: 131.95°
+RAAN: 117.80°
+
+----------------------------
+Satellite: Satellite_2_ID_3186
+Screen Position: (230.8779, 158.1544)
+Distance: 4.711456 km
+0 0.2884989 0.7794961 0.03490563 0.02329364
+latitude: -16.45959
+longitude: -43.18653
+altitude: 509.1465
+Orbit: Inclination: 131.95°
+RAAN: 117.78°
+
+----------------------------
+Satellite: Satellite_2_ID_3188
+Screen Position: (371.5688, 312.2974)
+Distance: 7.797665 km
+0 0.4680703 0.5577043 0.01749057 0.00671698
+latitude: -16.43921
+longitude: -43.16369
+altitude: 509.4336
+Orbit: Inclination: 131.97°
+RAAN: 117.77°
+
+----------------------------
+Satellite: Satellite_2_ID_3190
+Screen Position: (240.1292, 109.8331)
+Distance: 7.721612 km
+0 0.3025765 0.8447323 0.0203577 0.01415583
+latitude: -16.46156
+longitude: -43.16034
+altitude: 509.4092
+Orbit: Inclination: 131.96°
+RAAN: 117.75°
+
+----------------------------
+Satellite: Satellite_2_ID_3191
+Screen Position: (168.514, 131.4369)
+Distance: 5.850503 km
+0 0.2095768 0.817055 0.0293936 0.02055363
+latitude: -16.46275
+longitude: -43.1768
+altitude: 508.7983
+Orbit: Inclination: 131.95°
+RAAN: 117.76°
+
+----------------------------
+Satellite: Satellite_2_ID_3192
+Screen Position: (290.0818, 448.6751)
+Distance: 5.240954 km
+0 0.3654509 0.3644608 0.02735443 0.01642524
+latitude: -16.4424
+longitude: -43.18738
+altitude: 508.2588
+Orbit: Inclination: 131.98°
+RAAN: 117.78°
+
+----------------------------
+Satellite: Satellite_2_ID_3198
+Screen Position: (101.5262, 148.868)
+Distance: 6.472776 km
+0 0.124726 0.791863 0.02842712 0.01852746
+latitude: -16.46429
+longitude: -43.17216
+altitude: 508.1768
+Orbit: Inclination: 131.93°
+RAAN: 117.77°
+
+----------------------------

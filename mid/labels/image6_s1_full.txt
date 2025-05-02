@@ -1,0 +1,63 @@
+self latitude: -16.74969
+self longitude: -40.3612
+Self altitude: 758.8105
+distance from viewpoint 1: 0.8373795
+self Orbit: Inclination: 18.19°
+RAAN: 195.93°
+
+----------------------------
+Satellite: Satellite_0_ID_1384
+Screen Position: (211.833, 238.7261)
+Distance: 3.148739 km
+0 0.2669056 0.6615783 0.03135622 0.03317646
+latitude: -16.72925
+longitude: -40.35054
+altitude: 760.1753
+Orbit: Inclination: 18.17°
+RAAN: 195.94°
+
+----------------------------
+Satellite: Satellite_0_ID_1386
+Screen Position: (486.9328, 526.6199)
+Distance: 5.319696 km
+0 0.6136909 0.2542554 0.02736274 0.02793577
+latitude: -16.70819
+longitude: -40.36672
+altitude: 759.9688
+Orbit: Inclination: 18.13°
+RAAN: 196.04°
+
+----------------------------
+Satellite: Satellite_0_ID_1387
+Screen Position: (255.0667, 469.85)
+Distance: 7.613706 km
+0 0.3254717 0.3332195 0.01764564 0.02018963
+latitude: -16.69091
+longitude: -40.34645
+altitude: 760.1025
+Orbit: Inclination: 18.12°
+RAAN: 195.95°
+
+----------------------------
+Satellite: Satellite_0_ID_1397
+Screen Position: (665.6892, 332.328)
+Distance: 4.271939 km
+0 0.8389995 0.5291876 0.0400848 0.02815618
+latitude: -16.72209
+longitude: -40.3707
+altitude: 761.0991
+Orbit: Inclination: 18.16°
+RAAN: 195.97°
+
+----------------------------
+Satellite: Satellite_0_ID_1401
+Screen Position: (146.5612, 364.06)
+Distance: 5.625091 km
+0 0.1899579 0.4830104 0.02374625 0.02472175
+latitude: -16.7101
+longitude: -40.34121
+altitude: 760.1563
+Orbit: Inclination: 18.15°
+RAAN: 195.94°
+
+----------------------------

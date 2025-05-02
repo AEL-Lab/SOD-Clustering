@@ -1,0 +1,19 @@
+self latitude: -0.2524692
+self longitude: 129.9478
+Self altitude: 594.6738
+distance from viewpoint 1: 0.4189636
+self Orbit: Inclination: 140.76°
+RAAN: 319.12°
+
+----------------------------
+Satellite: Satellite_1_ID_5694
+Screen Position: (99.98038, 528.1049)
+Distance: 1.017956 km
+0 0.1250692 0.2495971 0.1326212 0.1553164
+latitude: -0.2602451
+longitude: 129.9509
+altitude: 594.6646
+Orbit: Inclination: 140.77°
+RAAN: 319.11°
+
+----------------------------
